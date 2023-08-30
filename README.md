@@ -1,4 +1,4 @@
-#### Hey 👋
+## Hey 👋
 
 I am Sai Jyothsna Pothireddy - Software Engineer and Currently working at Persistent Systems.
 
@@ -10,6 +10,6 @@ I am Sai Jyothsna Pothireddy - Software Engineer and Currently working at Persis
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaiJyothsna465&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaiJyothsna465&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiJyothsna465&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiJyothsna465&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
