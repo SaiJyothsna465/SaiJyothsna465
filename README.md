@@ -1,6 +1,6 @@
 # Hey 👋
 
-I am Sai Jyothsna Pothireddy - Senior Software Engineer and Currently working at Persistent Systems.
+I am Sai Jyothsna Pothireddy - Lead Software Engineer and Currently working at Persistent Systems.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saijyothsna-pothireddy) 
